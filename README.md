@@ -17,4 +17,6 @@
 <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">  
 </div><br/>
 
-Java | Spring Boot | PostgreSQL | HTML5 | JavaScript | Bootstrap | Angular | 
+Constantly evolving!
+
+Java | Spring Boot | PostgreSQL | HTML5 | JavaScript | Bootstrap | Angular
