@@ -3,7 +3,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-cartaxo-285718149/)
 
-![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaCartaxo&show_icons=true&theme=tokyonight)
 
 ## Technologies I use in my studies:
 
