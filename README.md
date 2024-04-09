@@ -1,7 +1,7 @@
 
 ### Hello! My name is Rafael Cartaxo. 🙂
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-cartaxo-285718149/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-cartaxo)
 
 
 ## Technologies I use in my studies:
