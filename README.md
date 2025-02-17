@@ -4,7 +4,7 @@
 🚀 Experiência com testes funcionais e automatizados de APIs e interfaces  
 🔧 Tecnologias: Java, Ruby, Python, Robot Framework, Cypress, Cucumber  
 📌 Metodologias ágeis | Gestão de bugs | CI/CD  
-🎓 Cursando **Sistemas para Internet**  
+🎓 **Sistemas para Internet**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-cartaxo)  
 
